@@ -1,5 +1,133 @@
 ---
 title: "Media"
+pagetitle: "Media | Ian Phillips"
+body-class: media-page
 ---
 
-Media will be available here.
+## Print / online media coverage
+
+::: {.pub-list}
+
+::: {.pub}
+**[Seeing the bigger picture](https://hub.jhu.edu/magazine/2025/fall/brain-science-seeing-bigger-picture-invisible-gorilla/)**. *Johns Hopkins Magazine*, Kristel Tjandra, Fall 2025.
+:::
+
+::: {.pub}
+**[Attention not necessary for visual awareness, large study suggests](https://www.thetransmitter.org/attention/attention-not-necessary-for-visual-awareness-large-study-suggests/)**. *The Transmitter*, Kristel Tjandra, July 1, 2025.
+:::
+
+::: {.pub}
+**[Quiet, please! The remarkable power of silence](https://www.theguardian.com/lifeandstyle/2025/feb/02/quiet-please-the-remarkable-power-of-silence-for-our-bodies-and-our-minds)**. *The Guardian*, Sam Pyrah, February 2, 2025.
+:::
+
+::: {.pub}
+**[A teoria do gorila invisível acaba de ficar “abananada”, 25 anos depois](https://zap.aeiou.pt/teoria-gorila-invisivel-abananada-655555)**. *ZAP*, January 24, 2025.
+:::
+
+::: {.pub}
+**[Ön látja a gorillát? Újabb pszichológiai csavar a híres tanulmányban](https://www.blikk.hu/ferfiaknak/tech/gorilla-kosarlabda-pszichologiai-tanulmany-csavar/rbr8wmk)**. *Blikk*, November 15, 2024.
+:::
+
+::: {.pub}
+**[New twist on famous invisible gorilla psychology study](https://www.newscientist.com/article/2455806-theres-a-new-twist-on-the-famous-invisible-gorilla-psychology-study/)**. *New Scientist*, Michael Le Page, November 15, 2024.
+:::
+
+::: {.pub}
+**[Silence Is a ‘Sound’ You Hear, Study Suggests](https://www.nytimes.com/2023/07/10/science/silence-sound-study.html)**. *The New York Times*, Bethany Brookshire, July 10, 2023.
+:::
+
+::: {.pub}
+**[Our brains may process silence and sounds the same way](https://www.science.org/content/article/our-brains-may-process-silence-and-sounds-same-way)**. *Science*, Claudia López Lloreda, July 10, 2023.
+:::
+
+::: {.pub}
+**[Do We Actually ‘Hear’ Silence?](https://www.scientificamerican.com/article/do-we-actually-hear-silence/)**. *Scientific American*, Shayla Love, July 10, 2023.
+:::
+
+::: {.pub}
+**[We really can ‘hear’ the sound of silence](https://www.thetimes.co.uk/article/we-really-can-hear-the-sound-of-silence-s8fbs8cn3)**. *The Times*, Rhys Blakey, July 11, 2023.
+:::
+
+::: {.pub}
+**[‘Sound of silence’ can be picked up by the human ear](https://www.telegraph.co.uk/news/2023/07/10/hear-sound-of-silence-debate-scientists-research-john-cage/)**. *The Telegraph*, Joe Pinkstone, July 10, 2023.
+:::
+
+::: {.pub}
+**[Can YOU hear it? Scientists prove people can hear SILENCE for first time](https://www.dailymail.co.uk/sciencetech/article-12283931/Can-hear-Scientists-prove-people-hear-SILENCE-time.html)**. *Daily Mail*, Victoria Allen, July 10, 2023.
+:::
+
+::: {.pub}
+**[People can hear silence, new research suggests](https://www.independent.co.uk/news/science/silence-people-johns-hopkins-university-philosophy-bloomberg-b2372765.html)**. *The Independent*, Nina Massey, July 10, 2023.
+:::
+
+::: {.pub}
+**[There IS a sound of silence, new study on human perception shows](https://www.independent.ie/world-news/north-america/there-is-a-sound-of-silence-new-study-on-human-perception-shows/a1441603939.html)**. *Irish Independent*, Nina Massey, July 10, 2023.
+:::
+
+::: {.pub}
+**[Simon and Garfunkel were right – auditory illusion proves you really can ‘hear’ the sound of silence](https://www.thesun.co.uk/health/23017784/simon-and-garfunkel-sound-of-silence-hear/)**. *The Sun*, Alice Fuller, July 11, 2023.
+:::
+
+::: {.pub}
+**[It turns out that our brain also hears silence](https://www.haaretz.co.il/science/2023-07-13/ty-article-magazine/.premium/00000189-4d4b-d86f-a3b9-ff6b5f880000)**. *Haaretz*, Gideon Lev, July 13, 2023.
+:::
+
+::: {.pub}
+**[Scientists find the sound of silence](https://cosmosmagazine.com/science/human-brain-sound-silence/)**. *Cosmos Magazine*, Ellen Phiddian, July 11, 2023.
+:::
+
+:::
+
+## Radio and podcasts
+
+::: {.pub-list}
+
+::: {.pub}
+**[The Sound of Silence](https://www.rte.ie/radio/radio1/clips/22272936/)**. Interview on RTÉ Radio 1, *The Ray D’Arcy Show*, July 11, 2023.
+:::
+
+::: {.pub}
+**[Five Questions](https://anchor.fm/kieran-setiya/episodes/Ian-Phillips-e1ie9iq)**. Podcast interview with Kieran Setiya, August 2022.
+:::
+
+::: {.pub}
+**[Key Conversations with Phi Beta Kappa](https://radiopublic.com/key-conversations-with-phi-beta-k-6nbEPY/s1!95889)**. Podcast interview with Ned Block, March 2022.
+:::
+
+:::
+
+## Writing
+
+::: {.pub-list}
+
+::: {.pub}
+**[Time, in perspective](https://hub.jhu.edu/2022/04/04/ian-phillips-perception-of-time/)**. *The Hub Magazine*, April 2022.
+:::
+
+::: {.pub}
+**[Essay on Perception](https://www.open.ac.uk/library/digital-archive/exhibition/330/theme/1/page/10)**. For the Open University, *Philosophy in the Open* exhibition.
+:::
+
+:::
+
+## Miscellaneous interviews
+
+::: {.pub-list}
+
+::: {.pub}
+**[Unscrambling our memories in the wake of COVID-19](https://hub.jhu.edu/2022/04/04/covid-pandemic-memory-loss/)**. *The Hub Magazine*, April 2022.
+:::
+
+::: {.pub}
+**[Sight Unseen](https://alumni.berkeley.edu/california-magazine/2022-spring/sight-unseen/)**. *California Magazine*, Spring 2022.
+:::
+
+::: {.pub}
+**[Profile](https://hub.jhu.edu/2019/07/08/ian-phillips-bloomberg-distinguished-professor/)**. *The Hub Magazine*, July 2019.
+:::
+
+::: {.pub}
+**[Universities alone cannot redress inequality in society, says Oxford academic](https://www.dailymail.co.uk/news/article-3852310/Universities-redress-inequality-society-says-Oxford-academic.html)**. *Daily Mail*, October 2016.
+:::
+
+:::
