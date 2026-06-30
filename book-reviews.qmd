@@ -1,0 +1,91 @@
+---
+title: "Book Reviews"
+pagetitle: "Book Reviews | Ian Phillips"
+body-class: reviews-page
+---
+
+## 2023
+
+::: {.pub-list}
+
+::: {.pub}
+**[Chasing an equation for awareness](files/reviews/chasing-an-equation-for-awareness.pdf)**. Review of G. Musser, *Putting Ourselves Back in the Equation*. *Science*, 382(6676), 2023. With Chaz Firestone.
+:::
+
+::: {.pub}
+**[Seeing fast and thinking slow](files/reviews/seeing-fast-and-thinking-slow.pdf)**. Review of Ned Block, *The Border Between Seeing and Thinking*. *Science*, 379(6638), 2023. With Chaz Firestone.
+:::
+
+:::
+
+## 2022
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of In Consciousness We Trust](files/reviews/in-consciousness-we-trust.pdf)**. Review of Hakwan Lau, *In Consciousness We Trust*. *BJPS Review of Books*, 2022. With Simon Brown.
+:::
+
+::: {.pub}
+**[Review of Blockheads! Essays on Ned Block’s Philosophy of Mind and Consciousness](files/reviews/blockheads.pdf)**. Review of A. Pautz and D. Stoljar, eds., *Blockheads! Essays on Ned Block’s Philosophy of Mind and Consciousness*. *Mind*, 131, 2022.
+:::
+
+:::
+
+## 2019
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of Knowing by Perceiving](files/reviews/knowing-by-perceiving.pdf)**. Review of Alan Millar, *Knowing by Perceiving*. *Notre Dame Philosophical Reviews*, 11 June 2019.
+:::
+
+:::
+
+## 2016
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of Experiencing Time](files/reviews/experiencing-time.pdf)**. Review of Simon Prosser, *Experiencing Time*. *Notre Dame Philosophical Reviews*, 1 December 2016.
+:::
+
+:::
+
+## 2012
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of Memory: A Philosophical Study](files/reviews/memory-a-philosophical-study.pdf)**. Review of Sven Bernecker, *Memory: A Philosophical Study*. *Mind*, 121(428), 2012.
+:::
+
+:::
+
+## 2010
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of Sounds and Perception](files/reviews/sounds-and-perception-jcs.pdf)**. Review of Matthew Nudds and Casey O’Callaghan, eds., *Sounds and Perception*. *Journal of Consciousness Studies*, 17, 2010.
+:::
+
+::: {.pub}
+**[Where the dog barks](files/reviews/where-the-dog-barks.pdf)**. Review of Matthew Nudds and Casey O’Callaghan, eds., *Sounds and Perception*. *Times Literary Supplement*, 5597, 9 July 2010.
+:::
+
+:::
+
+## 2009
+
+::: {.pub-list}
+
+::: {.pub}
+**[Review of The Images of Time](files/reviews/the-images-of-time.pdf)**. Review of Robin Le Poidevin, *The Images of Time*. *British Journal for the Philosophy of Science*, 60(2), 2009.
+:::
+
+::: {.pub}
+**[What is a shadow?](files/reviews/what-is-a-shadow.pdf)**. Review of Roy Sorensen, *Seeing Dark Things: The Philosophy of Shadows*. *Times Literary Supplement*, 5532, 10 April 2009.
+:::
+
+:::

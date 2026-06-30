@@ -355,3 +355,170 @@ a:hover {
   padding-bottom: 0.15rem;
   border-bottom: 1px solid var(--border);
 }
+
+/* Talks page: use compact entry style */
+
+.talks-page h2 {
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.25rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Contact page */
+
+.contact-page main.content {
+  max-width: 620px;
+}
+
+.contact-page h1 {
+  font-size: 1.75rem;
+  margin-top: 1.6rem;
+  margin-bottom: 1.2rem;
+}
+
+.contact-page h2 {
+  font-size: 0.98rem;
+  font-weight: 650;
+  margin-top: 1.45rem;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.contact-page p {
+  margin-bottom: 0.7rem;
+}
+
+.contact-card {
+  margin: 0.6rem 0 1.35rem 0;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.contact-card p {
+  margin: 0;
+}
+
+/* Left-align profile buttons on Contact page only */
+
+.contact-page .profile-links,
+.contact-page .profile-links p {
+  justify-content: flex-start;
+}
+
+/* CV page */
+
+.cv-page main.content {
+  max-width: 650px;
+}
+
+.cv-page h1 {
+  font-size: 1.8rem;
+  margin-top: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.cv-page h2 {
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.6rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.16rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.cv-page p {
+  margin-bottom: 0.75rem;
+}
+
+.cv-download {
+  margin: 0.9rem 0 1.5rem 0;
+}
+
+.cv-download a {
+  display: inline-block;
+  font-family: "Montserrat", system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--link);
+}
+
+.cv-download a:hover {
+  color: var(--link-hover);
+  background: #fffaf0;
+  border-color: #c9bda9;
+}
+
+/* Talks page with video thumbnails */
+
+.talks-page main.content {
+  max-width: 680px;
+}
+
+.talks-page h2 {
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.25rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.talk-list {
+  margin-bottom: 1.2rem;
+}
+
+.talk {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  margin-bottom: 0.85rem;
+}
+
+.talk-thumb {
+  width: 130px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  border: 1px solid var(--border);
+}
+
+.talk-text {
+  font-size: 0.86rem;
+  line-height: 1.42;
+}
+
+.talk-text p {
+  margin: 0;
+}
+
+.talk-text strong a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.talk-text strong a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .talk {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  .talk-thumb {
+    width: 150px;
+  }
+}

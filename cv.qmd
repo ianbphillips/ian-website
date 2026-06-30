@@ -1,5 +1,40 @@
 ---
 title: "CV"
+pagetitle: "CV | Ian Phillips"
+body-class: cv-page
 ---
 
-A current CV will be available here.
+::: {.cv-download}
+[Download full CV](files/cv/ian-phillips-cv.pdf)
+:::
+
+## Current position
+
+**Bloomberg Distinguished Professor of Philosophy and Brain Sciences**  
+William H. Miller III Department of Philosophy  
+Department of Psychological and Brain Sciences  
+Johns Hopkins University
+
+## Selected affiliations
+
+Associate Principal Investigator, [Perception & Mind Lab](https://perception.jhu.edu/)  
+Member, [Foundations of Mind](https://mind.jhu.edu/)   
+Visiting Professor in Philosophy, University of Oxford, Trinity terms
+
+## Research areas
+
+Philosophy of mind  
+Vision science  
+Perception  
+Consciousness  
+Memory  
+Mental imagery  
+Temporal experience  
+
+## Publications
+
+See [Papers](papers.qmd).
+
+## Contact
+
+See [Contact](contact.qmd).

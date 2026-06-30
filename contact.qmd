@@ -1,8 +1,28 @@
 ---
 title: "Contact"
+pagetitle: "Contact | Ian Phillips"
+body-class: contact-page
 ---
-
-Ian Phillips  
+::: {.contact-card}
+**Ian Phillips**  
+Bloomberg Distinguished Professor of Philosophy and Brain Sciences  
 Johns Hopkins University
+:::
 
-Email: [add email address here]
+## Email
+
+[ianbphillips@jhu.edu](mailto:ianbphillips@jhu.edu)
+
+## Address
+
+William H. Miller III Department of Philosophy  
+Johns Hopkins University  
+281 Gilman Hall  
+3400 N. Charles Street  
+Baltimore, MD 21218  
+USA
+
+
+::: {.profile-links}
+[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/) [CV](cv.qmd)
+:::
