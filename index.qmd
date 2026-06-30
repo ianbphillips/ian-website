@@ -1,0 +1,11 @@
+---
+title: "Ian Phillips"
+---
+
+I am a philosopher at Johns Hopkins University. My work concerns perception, consciousness, mental imagery, and the philosophy and science of mind.
+
+## Selected links
+
+- [Papers](papers.qmd)
+- [CV](cv.qmd)
+- [Contact](contact.qmd)
