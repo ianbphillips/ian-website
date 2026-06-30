@@ -9,12 +9,12 @@ body-class: papers-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Response duration tracks confidence](files/papers/response-duration-tracks-confidence.pdf).** *Proceedings of the National Academy of Sciences*, in press. With Hanbei Zhou, Rui Zhe Goh, and Chaz Firestone.  
-<span class="pub-links">[data](files/data/response-duration-tracks-confidence-data.html) · [demos](files/demos/response-duration-tracks-confidence-demos.html)</span>
+**[Response duration tracks confidence](files/papers/response-duration.pdf).** *Proceedings of the National Academy of Sciences*. With Hanbei Zhou, Rui Zhe Goh, and Chaz Firestone.  
+<span class="pub-links">[[data]](https://osf.io/srtf4) · [[demos]](https://www.perceptionresearch.org/responseduration/)</span>
 :::
 
 ::: {.pub}
-**[In defense of a distinction](files/papers/in-defense-of-a-distinction.pdf).** *Trends in Cognitive Sciences*. Reply to Mudrik et al., “On a confusion about there being two types of consciousness.”
+**[In defense of a distinction](files/papers/in-defense.pdf).** *Trends in Cognitive Sciences*. Reply to Mudrik et al., **[On a confusion about there being two types of consciousness](https://www.sciencedirect.com/science/article/abs/pii/S1364661325003201)**.
 :::
 
 :::
@@ -24,12 +24,12 @@ body-class: papers-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Postdiction and the speed of consciousness](files/papers/postdiction-and-the-speed-of-consciousness.pdf).** *Behavioral and Brain Sciences*, 49, 2026. Commentary on Fleming and Michel, “Sensory horizons and the functions of conscious vision.”
+**[Postdiction and the speed of consciousness](files/papers/postdiction.pdf).** *Behavioral and Brain Sciences*, 49, 2026. Commentary on Fleming and Michel, **[Sensory horizons and the functions of conscious vision](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sensory-horizons-and-the-functions-of-conscious-vision/6B3E944D6E27247F0F1CF64B5612F493)**.
 :::
 
 ::: {.pub}
 **[Pretending not to know reveals a capacity for model-based self-simulation](files/papers/pretending-not-to-know.pdf).** *Psychological Science*, 37(2), 2026. With Matan Mazor and Chaz Firestone.  
-<span class="pub-links">[demos](files/demos/pretending-not-to-know-demos.html)</span>
+<span class="pub-links">[[demos]](files/demos/pretending-not-to-know-demos.html)</span>
 :::
 
 ::: {.pub}
@@ -44,7 +44,7 @@ body-class: papers-page
 
 ::: {.pub}
 **[Event-based warping: A relative distortion of time within events](files/papers/event-based-warping.pdf).** *Journal of Experimental Psychology: General*, 154(11), 2025. With Rui Zhe Goh, Hanbei Zhou, and Chaz Firestone.  
-<span class="pub-links">[data](files/data/event-based-warping-data.html) · [demos](files/demos/event-based-warping-demos.html)</span>
+<span class="pub-links">[[data]](https://osf.io/px5bd/) · [[demos]](https://www.perceptionresearch.org/eventbasedwarping/)</span>
 :::
 
 ::: {.pub}
@@ -52,30 +52,269 @@ body-class: papers-page
 :::
 
 ::: {.pub}
-**[What has episodic memory got to do with space and time?](files/papers/episodic-memory-space-time.pdf).** In S. Aronowitz and L. Nadel, eds., *Space, Time, and Memory*. Oxford University Press, 2025.
+**[What has episodic memory got to do with space and time?](files/papers/what-has-episodic-memory.pdf).** In S. Aronowitz and L. Nadel, eds., *Space, Time, and Memory*. Oxford University Press, 2025.
 :::
 
 ::: {.pub}
-**[Sensitivity to visual features in inattentional blindness](files/papers/sensitivity-to-visual-features-in-inattentional-blindness.pdf).** *eLife*, 13, 2025. With Makaela Nartker, Chaz Firestone, and Howard Egeth.  
-<span class="pub-links">[data](files/data/inattentional-blindness-data.html) · [demos](files/demos/inattentional-blindness-demos.html)</span>
+**[Sensitivity to visual features in inattentional blindness](files/papers/sensitivity-to-visual-features.pdf).** *eLife*, 13, 2025. With Makaela Nartker, Chaz Firestone, and Howard Egeth.  
+<span class="pub-links">[[data]](https://osf.io/fcrhu/) · [[demos]](https://www.perceptionresearch.org/ib/)</span>
 :::
 
 :::
 
-## Earlier selected work
+## 2023
 
 ::: {.pub-list}
 
 ::: {.pub}
-**[Austerity and Illusion](files/papers/austerity-and-illusion.pdf).** *Philosophers' Imprint*, 20(15), 2020. With Craig French.
+**[Visual adaptation and the purpose of perception](files/papers/visual-adaptation.pdf).** *Analysis*, 83(3), 2023. With Chaz Firestone. Ned Block replies in “Adaptation, Signal Detection and the Purposes of Perception: Reply to Ian Phillips and Chaz Firestone,” *Analysis*, 83(3), 2023.
 :::
 
 ::: {.pub}
-**[The methodological puzzle of phenomenal consciousness](files/papers/methodological-puzzle-of-phenomenal-consciousness.pdf).** *Philosophical Transactions of the Royal Society B*, 373(1755), 2018.
+**[Six ways of failing to see (and why the differences matter)](files/papers/six-ways-of-failing.pdf).** *i-Perception*, 14(4), 2023. With Makaela Nartker, Chaz Firestone, and Howard Egeth.
+:::
+
+::: {.pub}
+**[The perception of silence](files/papers/the-perception-of-silence.pdf).** *Proceedings of the National Academy of Sciences*, 120(29), 2023. With Rui Zhe Goh and Chaz Firestone.  
+<span class="pub-links">[[data]](https://osf.io/ytzxv/) · [[demos]](https://www.perceptionresearch.org/silence/)</span>
+:::
+
+::: {.pub}
+**[Eccentricity advances arrival to visual perception](files/papers/eccentricity-advances-arrival.pdf).** *Journal of Experimental Psychology: General*, 152(6), 2023. With Adi Upadhyayula and Jonathan Flombaum.
+:::
+
+::: {.pub}
+**[Naïve realism, the slightest philosophy, and the slightest science](files/papers/slightest-philosophy.pdf).** In B. McLaughlin and J. Cohen, eds., *Contemporary Debates in the Philosophy of Mind*. Blackwell, 2023. With Craig French.
+:::
+
+::: {.pub}
+**[Prospective Learning: Principled Extrapolation to the Future](https://arxiv.org/abs/2201.07372).** *Conference on Lifelong Learning Agents*, Proceedings of Machine Learning Research, 2023. With A. De Silva, R. Ramesh, L. Ungar, M. H. Shuler, N. J. Cowan, … and J. T. Vogelstein.
+:::
+
+:::
+
+## 2021
+
+::: {.pub-list}
+
+::: {.pub}
+**[Bias and blindsight: a reply to Michel and Lau (2021)](files/papers/bias-and-blindsight.pdf).** *Psychological Review*, 128(3), 2021. Reply to Matthias Michel and Hakwan Lau, “Is blindsight possible under signal detection theory? Comment on Phillips (2021).”
+:::
+
+::: {.pub}
+**[Blindsight is qualitatively degraded conscious vision](files/papers/blindsight.pdf).** *Psychological Review*, 128(3), 2021.
+:::
+
+::: {.pub}
+**[Scepticism about unconscious perception is the default hypothesis](files/papers/scepticism-about-unconscious.pdf).** *Journal of Consciousness Studies*, 28(3–4), 2021.
+:::
+
+:::
+
+## 2020
+
+::: {.pub-list}
+
+::: {.pub}
+**[Austerity and Illusion](files/papers/austerity-and-illusion.pdf).** *Philosophers’ Imprint*, 20(15), 2020. With Craig French.
+:::
+
+::: {.pub}
+**[Making sense of blindsense: a commentary on Garric et al. 2019](files/papers/making-sense.pdf).** *Cortex*, 127, 2020. Reply to Garric et al., “Dissociation between objective and subjective perceptual experiences in a population of hemianopic patients: A new form of blindsight?”
+:::
+
+::: {.pub}
+**[Object files and unconscious perception: a reply to Quilty-Dunn](files/papers/object-files.pdf).** *Analysis*, 80(2), 2020. Reply to Jake Quilty-Dunn, “Unconscious perception and phenomenal coherence.”
+:::
+
+::: {.pub}
+**[The fundamental problem with no-cognition paradigms](files/papers/the-fundamental-problem.pdf).** *Trends in Cognitive Sciences*, 24(3), 2020. With Jorge Morales. Reply to Ned Block, “What is wrong with the no-report paradigm and how to fix it.”
+:::
+
+:::
+
+## 2018
+
+::: {.pub-list}
+
+::: {.pub}
+**[The methodological puzzle of phenomenal consciousness](files/papers/the-methodological-puzzle.pdf).** *Philosophical Transactions of the Royal Society B*, 373(1755), 2018.
+:::
+
+::: {.pub}
+**[Unconscious perception reconsidered](files/papers/unconscious-perception-reconsidered.pdf).** *Analytic Philosophy*, 59(4), 2018. An early ancestor of this paper won the Antwerp Centre for Philosophical Psychology’s Annual Essay Prize.
+:::
+
+::: {.pub}
+**[No more than meets the eye: shadows as pure visibilia](files/papers/no-more-than.pdf).** In C. Mac Cumhaill and T. Crowther, eds., *Perceptual Ephemera*. Oxford University Press, 2018.
+:::
+
+::: {.pub}
+**[Consciousness, time, and memory](files/papers/consciousness-time-and-memory.pdf).** In R. J. Gennaro, ed., *The Routledge Handbook of Consciousness*. Routledge, 2018.
+:::
+
+::: {.pub}
+**[Commentary on “Are we underestimating the richness of visual experience?”](http://philosophyofbrains.com/2018/04/13/symposium-on-haun-tononi-koch-and-tsuchiya-are-we-underestimating-the-richness-of-visual-experience.aspx).** *Neuroscience of Consciousness*, 3(1), 2018. Commentary on A. Haun, G. Tononi, C. Koch, and N. Tsuchiya.
+:::
+
+:::
+
+## 2017
+
+::: {.pub-list}
+
+::: {.pub}
+**[Does unconscious perception really exist?](files/papers/does-unconscious-perception.pdf).** *Neuroscience of Consciousness*, 3(1), 2017. Debate with Ned Block, Bob Kentridge, Megan Peters, and Ian Phillips.
+:::
+
+::: {.pub}
+**[The significance of temporal experience](files/papers/significance-of-temporal-experience.pdf).** Editor’s introduction to I. Phillips, ed., *The Routledge Handbook of Philosophy of Temporal Experience*. Routledge, 2017.
+:::
+
+::: {.pub}
+**[Commentary on “Does perceptual consciousness overflow cognitive access?”](http://philosophyofbrains.com/2017/06/12/symposium-on-gross-and-flombaum-does-perceptual-consciousness-overflow-cognitive-access-the-challenge-from-probabilistic-hierarchical-processes.aspx).** *Mind & Language*, 32(3), 2017. Commentary on S. Gross and J. Flombaum.
+:::
+
+:::
+
+## 2016
+
+::: {.pub-list}
+
+::: {.pub}
+**[Debate on unconscious perception](files/papers/debate-on-unconscious.pdf).** In B. Nanay, ed., *Current Controversies in Philosophy of Perception*. Routledge, 2016. With Ned Block.
+:::
+
+::: {.pub}
+**[Consciousness and criterion: on Block’s case for unconscious perception](files/papers/consciousness-and-criterion.pdf).** *Philosophy and Phenomenological Research*, 93(2), 2016. Ned Block replies in “The Anna Karenina Principle and Skepticism about Unconscious Perception.”
+:::
+
+::: {.pub}
+**[No watershed for overflow: recent work on the richness of consciousness](files/papers/no-watershed.pdf).** *Philosophical Psychology*, 29(2), 2016.
+:::
+
+::: {.pub}
+**[Naïve realism and the science of (some) illusions](files/papers/naive-realism.pdf).** *Philosophical Topics*, 44(2), 2016. Special issue on perceptual appearances, edited by C. Hill and B. McLaughlin.
+:::
+
+:::
+
+## 2014
+
+::: {.pub-list}
+
+::: {.pub}
+**[Lack of imagination: individual differences in mental imagery and the significance of consciousness](files/papers/lack-of-imagination.pdf).** In J. Kallestrup and M. Sprevak, eds., *New Waves in Philosophy of Mind*. Palgrave Macmillan, 2014.
+:::
+
+::: {.pub}
+**[The temporal structure of experience](files/papers/the-temporal-structure.pdf).** In D. Lloyd and V. Arstila, eds., *Subjective Time: The Philosophy, Psychology, and Neuroscience of Temporality*. MIT Press, 2014.
+:::
+
+::: {.pub}
+**[Breaking the silence: motion silencing and experience of change](files/papers/breaking-the-silence.pdf).** *Philosophical Studies*, 168(3), 2014.
+:::
+
+::: {.pub}
+**[Experience of and in time](files/papers/experience-of-and-in-time.pdf).** *Philosophy Compass*, 9(2), 2014.
+:::
+
+::: {.pub}
+**[Cetacean semantics: a reply to Sainsbury](files/papers/cetacean-semantics.pdf).** *Analysis*, 74(3), 2014.
+:::
+
+:::
+
+## 2013
+
+::: {.pub-list}
+
+::: {.pub}
+**[Hearing and hallucinating silence](files/papers/hearing-and-hallucinating-silence.pdf).** In F. Macpherson and D. Platchias, eds., *Hallucination*. MIT Press, 2013.
+:::
+
+::: {.pub}
+**[Perceiving the passing of time](files/papers/perceiving-the-passing.pdf).** *Proceedings of the Aristotelian Society*, 113, 2013.
+:::
+
+::: {.pub}
+**[Afterimages and sensation](files/papers/afterimages-and-sensation.pdf).** *Philosophy and Phenomenological Research*, 87(2), 2013. Chosen as one of the “best ten” papers of 2013 by *The Philosopher’s Annual*.
+:::
+
+:::
+
+## 2012
+
+::: {.pub-list}
+
+::: {.pub}
+**[Attention to the passage of time](files/papers/attention-to-the-passage.pdf).** *Philosophical Perspectives*, 26(1), 2012.
+:::
+
+:::
+
+## 2011
+
+::: {.pub-list}
+
+::: {.pub}
+**[Attention and iconic memory](files/papers/attention-and-iconic-memory.pdf).** In C. Mole, D. Smithies, and W. Wu, eds., *Attention: Philosophical and Psychological Essays*. Oxford University Press, 2011.
 :::
 
 ::: {.pub}
 **[Perception and iconic memory](files/papers/perception-and-iconic-memory.pdf).** *Mind & Language*, 26(4), 2011. Winner of the ASSC William James Prize for Contributions to the Study of Consciousness.
+:::
+
+::: {.pub}
+**[Indiscriminability and experience of change](files/papers/indiscriminability.pdf).** *The Philosophical Quarterly*, 61(245), 2011.
+:::
+
+::: {.pub}
+**[Stuck in the closet: a reply to Ahmed](files/papers/stuck-in-the-closet.pdf).** *Analysis*, 71(1), 2011.
+:::
+
+:::
+
+## 2010
+
+::: {.pub-list}
+
+::: {.pub}
+**[Perceiving temporal properties](files/papers/perceiving-temporal-properties.pdf).** *European Journal of Philosophy*, 18(2), 2010.
+:::
+
+:::
+
+## 2009
+
+::: {.pub-list}
+
+::: {.pub}
+**[Rate abuse: a reply to Olson](files/papers/rate-abuse.pdf).** *Analysis*, 69(3), 2009.
+:::
+
+::: {.pub}
+**[Experience and Time](files/papers/experience-and-time.pdf).** Ph.D. thesis, University College London, 2009.
+:::
+
+:::
+
+## 2007
+
+::: {.pub-list}
+
+::: {.pub}
+**[Morgenbesser cases and closet determinism](files/papers/morgenbesser-cases.pdf).** *Analysis*, 67(1), 2007.
+:::
+
+:::
+
+## 2006
+
+::: {.pub-list}
+
+::: {.pub}
+**[No new argument against the existence requirement](files/papers/no-new-argument.pdf).** *Analysis*, 66(1), 2006. With Andrew McCarthy.
 :::
 
 :::

@@ -280,11 +280,31 @@ a:hover {
 }
 
 .pub {
+  display: grid;
+  grid-template-columns: 0.85rem 1fr;
+  column-gap: 0.45rem;
   font-size: 0.86rem;
   line-height: 1.42;
   margin-bottom: 0.62rem;
-  padding-left: 1rem;
-  text-indent: -1rem;
+  padding-left: 0;
+  text-indent: 0;
+}
+
+.pub::before {
+  content: "";
+  width: 0.65rem;
+  height: 0.65rem;
+  margin-top: 0.25rem;
+  background-image: url("images/icons/paper-icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.72;
+}
+
+.pub p {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .pub p {
