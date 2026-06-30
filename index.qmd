@@ -1,11 +1,36 @@
 ---
-title: "Ian Phillips"
+page-layout: full
+pagetitle: "Ian Phillips"
 ---
 
-I am a philosopher at Johns Hopkins University. My work concerns perception, consciousness, mental imagery, and the philosophy and science of mind.
+::: {.home-header}
 
-## Selected links
+![](images/ian-phillips-web.jpg){.portrait}
 
-- [Papers](papers.qmd)
-- [CV](cv.qmd)
-- [Contact](contact.qmd)
+# Ian Phillips
+
+::: {.subtitle}
+Bloomberg Distinguished Professor of Philosophy and Brain Sciences  
+Johns Hopkins University
+:::
+
+::: {.profile-links}
+[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/) [CV](cv.qmd)
+:::
+
+:::
+
+::: {.home-main}
+
+I am jointly appointed in the William H. Miller III Department of Philosophy and the Department of Psychological and Brain Sciences. I am also a regular visiting professor at Oxford University.
+
+My work lies at the intersection of philosophy and the mind/brain sciences, with particular interests in perception, memory, imagination, consciousness, and temporal experience. I am also writing a biography of Gareth Evans.
+
+## Recent updates
+
+- “Response duration tracks confidence,” in press at *PNAS*.
+- “Pretending not to know,” published in *Psychological Science*.
+- “Event-based warping,” published in *Journal of Experimental Psychology: General*.
+- “Aphantasia reimagined,” published in *Noûs*.
+
+:::

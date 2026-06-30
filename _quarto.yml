@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Ian Phillips"
+  search: false
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -14,6 +16,14 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+      - text: More
+        menu:
+          - href: book-reviews.qmd
+            text: Book Reviews
+          - href: online-talks.qmd
+            text: Online Talks
+          - href: media.qmd
+            text: Media
 
 format:
   html:

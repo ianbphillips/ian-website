@@ -1,0 +1,9 @@
+::: {.site-nav}
+[Home](index.qmd)
+[Papers](papers.qmd)
+[Book Reviews](book-reviews.qmd)
+[Online Talks](online-talks.qmd)
+[Media](media.qmd)
+[CV](cv.qmd)
+[Contact](contact.qmd)
+:::

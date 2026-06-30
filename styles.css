@@ -1,1 +1,337 @@
-/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;450;500;600;700&display=swap');
+
+:root {
+  --text: #18212b;
+  --muted: #66706f;
+  --link: #244f7a;
+  --link-hover: #12324f;
+  --border: #ded8cd;
+  --background: #f7f7f7;
+  --card: #fffdf8;
+  --accent: #7a4f32;
+}
+
+body {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--background);
+  font-weight: 400;
+}
+
+/* Centered Quarto navbar, with consistent dropdown font */
+
+.navbar {
+  font-family: "Montserrat", system-ui, sans-serif !important;
+  background: var(--background);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.82rem;
+  padding-top: 0.22rem;
+  padding-bottom: 0.22rem;
+  min-height: 38px;
+  box-shadow: none;
+}
+
+.navbar > .container-fluid {
+  justify-content: center;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+  justify-content: center;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+
+.navbar a,
+.navbar .nav-link,
+.navbar .dropdown-toggle {
+  font-family: "Montserrat", system-ui, sans-serif !important;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.navbar-nav .nav-link {
+  padding-left: 0.65rem;
+  padding-right: 0.65rem;
+}
+
+/* Keep the navbar as links, not a hamburger, on tablet/half-screen widths */
+
+@media (min-width: 650px) {
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+
+  .navbar-expand-lg .navbar-toggler {
+    display: none !important;
+  }
+
+  .navbar-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/* Let it collapse only on genuinely narrow screens */
+
+@media (max-width: 649px) {
+  .navbar {
+    font-size: 0.78rem;
+  }
+
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+/* More dropdown */
+
+.navbar .dropdown-menu {
+  font-family: "Montserrat", system-ui, sans-serif !important;
+  font-size: 0.78rem;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0.25rem 0;
+  min-width: 9.5rem;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  font-family: "Montserrat", system-ui, sans-serif !important;
+  color: var(--text);
+  padding: 0.38rem 0.75rem;
+  font-size: 0.78rem;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus {
+  background: #f4efe6;
+  color: var(--link-hover);
+}
+
+/* Centered homepage header */
+
+.home-header {
+  max-width: 680px;
+  margin: 1.4rem auto 1.35rem auto;
+  text-align: center;
+}
+
+.home-header .portrait {
+  width: 400px;
+  height: auto;
+  border-radius: 2px;
+  margin-bottom: 0.95rem;
+}
+
+.home-header h1 {
+  font-family: "Montserrat", system-ui, sans-serif;
+  font-size: 1.95rem;
+  font-weight: 650;
+  line-height: 1.05;
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  letter-spacing: -0.045em;
+}
+
+.subtitle {
+  font-family: "Montserrat", system-ui, sans-serif;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.4;
+  margin-bottom: 0.75rem;
+  font-weight: 400;
+}
+
+/* Profile buttons */
+
+.profile-links {
+  margin-top: 0.65rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.profile-links p {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.profile-links a {
+  font-family: "Montserrat", system-ui, sans-serif;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  text-decoration: none;
+  font-size: 0.76rem;
+  line-height: 1.2;
+  color: var(--link);
+  font-weight: 450;
+}
+
+.profile-links a:hover {
+  border-color: #c9bda9;
+  color: var(--link-hover);
+  background: #fffaf0;
+}
+
+.profile-icon {
+  width: 0.95em;
+  height: 0.95em;
+  opacity: 0.82;
+  vertical-align: -0.12em;
+}
+
+/* Main homepage text */
+
+.home-main {
+  max-width: 625px;
+  margin: 0 auto 2.6rem auto;
+}
+
+.home-main p {
+  margin-bottom: 0.75rem;
+}
+
+/* Headings */
+
+h1, h2, h3 {
+  font-family: "Montserrat", system-ui, sans-serif;
+  color: var(--text);
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  font-size: 1.05rem;
+  font-weight: 650;
+  margin-top: 1.65rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.18rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Lists */
+
+ul {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.32rem;
+}
+
+/* Links */
+
+a {
+  color: var(--link);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Mobile */
+
+@media (max-width: 760px) {
+  .home-header {
+    margin: 1.6rem 1rem 1.8rem 1rem;
+  }
+
+  .home-header .portrait {
+    width: 140px;
+  }
+
+  .home-main {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  main.content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+/* Papers page: compact bibliography style */
+
+.pub-list {
+  margin-bottom: 1.15rem;
+}
+
+.pub {
+  font-size: 0.86rem;
+  line-height: 1.42;
+  margin-bottom: 0.62rem;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+
+.pub p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pub strong {
+  font-weight: 600;
+}
+
+.pub strong a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.pub strong a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+.pub em {
+  color: var(--text);
+}
+
+.pub-links {
+  font-family: "Montserrat", system-ui, sans-serif;
+  font-size: 0.76rem;
+  color: var(--muted);
+  text-indent: 0;
+}
+
+.pub-links a {
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+/* Tighter year headings on publication pages */
+
+.papers-page h2 {
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.25rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--border);
+}

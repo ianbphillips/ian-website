@@ -1,9 +1,81 @@
 ---
 title: "Papers"
+pagetitle: "Papers | Ian Phillips"
+body-class: papers-page
 ---
 
-## Selected publications
+## In press
 
-Phillips, I. “Austerity and Illusion.” *Philosophers' Imprint*, 2020.
+::: {.pub-list}
 
-More publications coming soon.
+::: {.pub}
+**[Response duration tracks confidence](files/papers/response-duration-tracks-confidence.pdf).** *Proceedings of the National Academy of Sciences*, in press. With Hanbei Zhou, Rui Zhe Goh, and Chaz Firestone.  
+<span class="pub-links">[data](files/data/response-duration-tracks-confidence-data.html) · [demos](files/demos/response-duration-tracks-confidence-demos.html)</span>
+:::
+
+::: {.pub}
+**[In defense of a distinction](files/papers/in-defense-of-a-distinction.pdf).** *Trends in Cognitive Sciences*. Reply to Mudrik et al., “On a confusion about there being two types of consciousness.”
+:::
+
+:::
+
+## 2026
+
+::: {.pub-list}
+
+::: {.pub}
+**[Postdiction and the speed of consciousness](files/papers/postdiction-and-the-speed-of-consciousness.pdf).** *Behavioral and Brain Sciences*, 49, 2026. Commentary on Fleming and Michel, “Sensory horizons and the functions of conscious vision.”
+:::
+
+::: {.pub}
+**[Pretending not to know reveals a capacity for model-based self-simulation](files/papers/pretending-not-to-know.pdf).** *Psychological Science*, 37(2), 2026. With Matan Mazor and Chaz Firestone.  
+<span class="pub-links">[demos](files/demos/pretending-not-to-know-demos.html)</span>
+:::
+
+::: {.pub}
+**[Aphantasia reimagined](files/papers/aphantasia-reimagined.pdf).** *Noûs*, 60(1), 2026.
+:::
+
+:::
+
+## 2025
+
+::: {.pub-list}
+
+::: {.pub}
+**[Event-based warping: A relative distortion of time within events](files/papers/event-based-warping.pdf).** *Journal of Experimental Psychology: General*, 154(11), 2025. With Rui Zhe Goh, Hanbei Zhou, and Chaz Firestone.  
+<span class="pub-links">[data](files/data/event-based-warping-data.html) · [demos](files/demos/event-based-warping-demos.html)</span>
+:::
+
+::: {.pub}
+**[Spared spatial imagery solves the puzzle of aphantasia](files/papers/spared-spatial-imagery.pdf).** *Trends in Cognitive Sciences*, 29(11), 2025.
+:::
+
+::: {.pub}
+**[What has episodic memory got to do with space and time?](files/papers/episodic-memory-space-time.pdf).** In S. Aronowitz and L. Nadel, eds., *Space, Time, and Memory*. Oxford University Press, 2025.
+:::
+
+::: {.pub}
+**[Sensitivity to visual features in inattentional blindness](files/papers/sensitivity-to-visual-features-in-inattentional-blindness.pdf).** *eLife*, 13, 2025. With Makaela Nartker, Chaz Firestone, and Howard Egeth.  
+<span class="pub-links">[data](files/data/inattentional-blindness-data.html) · [demos](files/demos/inattentional-blindness-demos.html)</span>
+:::
+
+:::
+
+## Earlier selected work
+
+::: {.pub-list}
+
+::: {.pub}
+**[Austerity and Illusion](files/papers/austerity-and-illusion.pdf).** *Philosophers' Imprint*, 20(15), 2020. With Craig French.
+:::
+
+::: {.pub}
+**[The methodological puzzle of phenomenal consciousness](files/papers/methodological-puzzle-of-phenomenal-consciousness.pdf).** *Philosophical Transactions of the Royal Society B*, 373(1755), 2018.
+:::
+
+::: {.pub}
+**[Perception and iconic memory](files/papers/perception-and-iconic-memory.pdf).** *Mind & Language*, 26(4), 2011. Winner of the ASSC William James Prize for Contributions to the Study of Consciousness.
+:::
+
+:::
