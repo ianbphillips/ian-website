@@ -61,34 +61,47 @@ body {
   padding-right: 0.65rem;
 }
 
-/* Keep the navbar as links, not a hamburger, on tablet/half-screen widths */
+/* Keep navbar compact and horizontal on mobile */
 
-@media (min-width: 650px) {
-  .navbar-expand-lg .navbar-collapse {
-    display: flex !important;
-    flex-basis: auto;
+@media (max-width: 700px) {
+  .navbar {
+    min-height: 34px;
+    padding-top: 0.18rem;
+    padding-bottom: 0.18rem;
   }
 
-  .navbar-expand-lg .navbar-toggler {
+  .navbar-toggler {
     display: none !important;
   }
 
-  .navbar-nav {
-    flex-direction: row;
-    flex-wrap: wrap;
+  .navbar-collapse,
+  .navbar-collapse.collapse {
+    display: flex !important;
+    flex-basis: auto;
     justify-content: center;
   }
-}
-
-/* Let it collapse only on genuinely narrow screens */
-
-@media (max-width: 649px) {
-  .navbar {
-    font-size: 0.78rem;
-  }
 
   .navbar-nav {
-    text-align: center;
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 0.74rem;
+    padding-left: 0.38rem;
+    padding-right: 0.38rem;
+    padding-top: 0.28rem;
+    padding-bottom: 0.28rem;
+    white-space: nowrap;
+  }
+
+  .navbar .dropdown-menu {
+    position: absolute;
+    font-size: 0.74rem;
+    text-align: left;
   }
 }
 
