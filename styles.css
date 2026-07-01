@@ -61,13 +61,18 @@ body {
   padding-right: 0.65rem;
 }
 
-/* Keep navbar compact and horizontal on mobile */
+/* Keep navbar compact and horizontal on mobile, with working More dropdown */
 
 @media (max-width: 700px) {
   .navbar {
     min-height: 34px;
     padding-top: 0.18rem;
     padding-bottom: 0.18rem;
+    overflow: visible;
+  }
+
+  .navbar > .container-fluid {
+    overflow: visible;
   }
 
   .navbar-toggler {
@@ -79,6 +84,7 @@ body {
     display: flex !important;
     flex-basis: auto;
     justify-content: center;
+    overflow: visible;
   }
 
   .navbar-nav {
@@ -87,6 +93,10 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
+  }
+
+  .navbar-nav .nav-item {
+    position: relative;
   }
 
   .navbar-nav .nav-link {
@@ -99,9 +109,26 @@ body {
   }
 
   .navbar .dropdown-menu {
-    position: absolute;
-    font-size: 0.74rem;
+    position: absolute !important;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2000;
+    min-width: 8.5rem;
     text-align: left;
+    font-size: 0.74rem;
+    background: var(--background);
+    border: 1px solid var(--border);
+  }
+
+  .navbar .dropdown-menu.show {
+    display: block;
+  }
+
+  .navbar .dropdown-item {
+    font-size: 0.74rem;
+    padding: 0.35rem 0.65rem;
+    white-space: nowrap;
   }
 }
 
