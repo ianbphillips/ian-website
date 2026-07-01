@@ -611,6 +611,17 @@ a:hover {
   border-bottom: 1px solid var(--border);
 }
 
+/* Book Reviews page */
+
+.reviews-page h2 {
+  font-size: 1rem;
+  font-weight: 650;
+  margin-top: 1.25rem;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--border);
+}
+
 /* Book review entries with fixed-size cover thumbnails */
 
 .review {
@@ -727,5 +738,36 @@ a:hover {
   main.content {
     margin-left: 1rem;
     margin-right: 1rem;
+  }
+}
+
+/* Final mobile dropdown override */
+
+@media (max-width: 700px) {
+  .navbar .dropdown-menu {
+    position: static !important;
+    transform: none !important;
+    float: none !important;
+    width: 100% !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    text-align: center !important;
+    min-width: auto !important;
+    padding-top: 0 !important;
+    padding-bottom: 0.25rem !important;
+  }
+
+  .navbar .dropdown-menu .dropdown-item {
+    font-size: 0.78rem;
+    text-align: center !important;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .navbar .dropdown-menu .dropdown-item:hover,
+  .navbar .dropdown-menu .dropdown-item:focus {
+    background: transparent !important;
+    color: var(--link-hover);
   }
 }
