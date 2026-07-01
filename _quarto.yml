@@ -31,4 +31,6 @@ format:
     css: styles.css
     toc: false
     anchor-sections: false
-    include-after-body: back-to-top.html
+    include-after-body: 
+    - back-to-top.html
+    - new-tab-links.html
