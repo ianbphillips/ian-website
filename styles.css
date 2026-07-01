@@ -61,30 +61,17 @@ body {
   padding-right: 0.65rem;
 }
 
-/* Keep navbar compact and horizontal on mobile, with working More dropdown */
+/* Keep navbar horizontal on tablet / half-screen widths */
 
-@media (max-width: 700px) {
-  .navbar {
-    min-height: 34px;
-    padding-top: 0.18rem;
-    padding-bottom: 0.18rem;
-    overflow: visible;
-  }
-
-  .navbar > .container-fluid {
-    overflow: visible;
-  }
-
-  .navbar-toggler {
-    display: none !important;
-  }
-
-  .navbar-collapse,
-  .navbar-collapse.collapse {
+@media (min-width: 701px) and (max-width: 991.98px) {
+  .navbar-expand-lg .navbar-collapse {
     display: flex !important;
     flex-basis: auto;
     justify-content: center;
-    overflow: visible;
+  }
+
+  .navbar-expand-lg .navbar-toggler {
+    display: none !important;
   }
 
   .navbar-nav {
@@ -92,43 +79,74 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 100%;
+  }
+}
+
+/* Use a compact hamburger menu on phones */
+
+@media (max-width: 700px) {
+  .navbar {
+    min-height: 34px;
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
   }
 
-  .navbar-nav .nav-item {
-    position: relative;
+  .navbar > .container-fluid {
+    justify-content: center;
+  }
+
+  .navbar-toggler {
+    display: block !important;
+    margin: 0 auto;
+    border: 0;
+    padding: 0.12rem 0.35rem;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-collapse {
+    flex-basis: 100%;
+  }
+
+  .navbar-nav {
+    align-items: center;
+    text-align: center;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
   }
 
   .navbar-nav .nav-link {
-    font-size: 0.74rem;
-    padding-left: 0.38rem;
-    padding-right: 0.38rem;
+    font-size: 0.82rem;
     padding-top: 0.28rem;
     padding-bottom: 0.28rem;
-    white-space: nowrap;
   }
 
   .navbar .dropdown-menu {
-    position: absolute !important;
-    top: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 2000;
-    min-width: 8.5rem;
-    text-align: left;
-    font-size: 0.74rem;
-    background: var(--background);
-    border: 1px solid var(--border);
-  }
-
-  .navbar .dropdown-menu.show {
-    display: block;
+    position: static !important;
+    transform: none !important;
+    float: none;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+    text-align: center;
+    min-width: auto;
+    padding-top: 0;
+    padding-bottom: 0.25rem;
   }
 
   .navbar .dropdown-item {
-    font-size: 0.74rem;
-    padding: 0.35rem 0.65rem;
-    white-space: nowrap;
+    font-size: 0.78rem;
+    text-align: center;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .navbar .dropdown-item:hover,
+  .navbar .dropdown-item:focus {
+    background: transparent;
+    color: var(--link-hover);
   }
 }
 
