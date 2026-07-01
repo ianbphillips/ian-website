@@ -82,7 +82,7 @@ body {
   }
 }
 
-/* Use a compact hamburger menu on phones */
+/* Use a compact centered hamburger menu on phones */
 
 @media (max-width: 700px) {
   .navbar {
@@ -92,12 +92,18 @@ body {
   }
 
   .navbar > .container-fluid {
-    justify-content: center;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .navbar-toggler {
     display: block !important;
-    margin: 0 auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
     border: 0;
     padding: 0.12rem 0.35rem;
   }
@@ -107,26 +113,43 @@ body {
   }
 
   .navbar-collapse {
-    flex-basis: 100%;
+    flex-basis: 100% !important;
+    width: 100% !important;
+    flex-grow: 1 !important;
+    justify-content: center !important;
+  }
+
+  .navbar-collapse.show {
+    display: block !important;
   }
 
   .navbar-nav {
-    align-items: center;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    align-items: center !important;
+    text-align: center !important;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+  }
+
+  .navbar-nav .nav-item {
+    width: 100%;
     text-align: center;
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
   }
 
   .navbar-nav .nav-link {
     font-size: 0.82rem;
     padding-top: 0.28rem;
     padding-bottom: 0.28rem;
+    text-align: center;
   }
 
   .navbar .dropdown-menu {
     position: static !important;
     transform: none !important;
     float: none;
+    width: 100%;
     border: 0;
     box-shadow: none;
     background: transparent;
