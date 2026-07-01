@@ -567,3 +567,47 @@ a:hover {
   padding-bottom: 0.15rem;
   border-bottom: 1px solid var(--border);
 }
+
+/* Book review entries with fixed-size cover thumbnails */
+
+.review {
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  margin-bottom: 0.75rem;
+}
+
+.review p {
+  margin: 0;
+}
+
+.review img.cover-thumb {
+  width: 44px !important;
+  height: 64px !important;
+  max-width: 44px !important;
+  max-height: 64px !important;
+  object-fit: cover;
+  display: block;
+  border: 1px solid var(--border);
+  background: var(--card);
+}
+
+.review-text {
+  font-size: 0.86rem;
+  line-height: 1.42;
+}
+
+.review-text p {
+  margin: 0;
+}
+
+.review-text strong a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.review-text strong a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
