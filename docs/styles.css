@@ -514,7 +514,7 @@ a:hover {
   text-decoration: none;
   padding: 0.35rem 0.7rem;
   border: 1px solid var(--border);
-  border-radius: 999px;
+  border-radius: 2px;
   background: var(--card);
   color: var(--link);
 }
