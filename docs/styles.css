@@ -611,3 +611,48 @@ a:hover {
   color: var(--link);
   text-decoration: underline;
 }
+
+/* Back to top button */
+
+#back-to-top {
+  position: fixed;
+  left: 50%;
+  bottom: 1.2rem;
+  z-index: 1000;
+
+  font-family: "Montserrat", system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--link);
+  cursor: pointer;
+
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50%) translateY(4px);
+  transition: opacity 0.18s ease, transform 0.18s ease, background 0.18s ease;
+}
+
+#back-to-top.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
+}
+
+#back-to-top:hover {
+  background: #fffaf0;
+  color: var(--link-hover);
+  border-color: #c9bda9;
+}
+
+@media (max-width: 700px) {
+  #back-to-top {
+    left: 50%;
+    bottom: 0.8rem;
+    font-size: 0.74rem;
+    padding: 0.3rem 0.55rem;
+  }
+}

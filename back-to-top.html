@@ -1,0 +1,29 @@
+<button id="back-to-top" aria-label="Back to top">↑ Top</button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("back-to-top");
+
+    function toggleButton() {
+      const pageIsLong = document.documentElement.scrollHeight > window.innerHeight * 1.4;
+      const scrolledDown = window.scrollY > 250;
+
+      if (pageIsLong && scrolledDown) {
+        button.classList.add("visible");
+      } else {
+        button.classList.remove("visible");
+      }
+    }
+
+    button.addEventListener("click", function () {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    });
+
+    window.addEventListener("scroll", toggleButton);
+    window.addEventListener("resize", toggleButton);
+    toggleButton();
+  });
+</script>
