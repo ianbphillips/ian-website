@@ -737,3 +737,21 @@ a:hover {
     padding: 0.3rem 0.55rem;
   }
 }
+
+/* Make homepage profile buttons use the same mobile width as other pages */
+
+@media (max-width: 760px) {
+  .home-header {
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .home-header .profile-links {
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
