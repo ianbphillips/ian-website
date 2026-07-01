@@ -1,6 +1,7 @@
 ---
 page-layout: full
-pagetitle: "Ian Phillips"
+pagetitle: "Ian Phillips | Philosophy and Psychological & Brain Sciences"
+description: "Ian Phillips is Bloomberg Distinguished Professor of Philosophy and Psychological & Brain Sciences at Johns Hopkins University."
 ---
 
 ::: {.home-header}
@@ -10,7 +11,7 @@ pagetitle: "Ian Phillips"
 # Ian Phillips
 
 ::: {.subtitle}
-Bloomberg Distinguished Professor of Philosophy and Brain Sciences  
+Bloomberg Distinguished Professor of Philosophy and Psychological & Brain Sciences  
 Johns Hopkins University
 :::
 

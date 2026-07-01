@@ -10,9 +10,9 @@ body-class: cv-page
 
 ## Current position
 
-**Bloomberg Distinguished Professor of Philosophy and Brain Sciences**  
+**Bloomberg Distinguished Professor of Philosophy and Psychological & Brain Sciences**  
 William H. Miller III Department of Philosophy  
-Department of Psychological and Brain Sciences  
+Department of Psychological & Brain Sciences  
 Johns Hopkins University
 
 ## Selected affiliations
