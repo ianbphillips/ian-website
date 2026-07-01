@@ -23,7 +23,7 @@ body-class: reviews-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Review of In Consciousness We Trust](files/reviews/in-consciousness-we-trust.pdf)**. Review of Hakwan Lau, *In Consciousness We Trust*. *BJPS Review of Books*, 2022. With Simon Brown.
+**[Review of In Consciousness We Trust](https://www.thebsps.org/reviewofbooks/phillips-and-brown-on-lau/)**. Review of Hakwan Lau, *In Consciousness We Trust*. *BJPS Review of Books*, 2022. With Simon Brown.
 :::
 
 ::: {.pub}
@@ -37,7 +37,7 @@ body-class: reviews-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Review of Knowing by Perceiving](files/reviews/knowing-by-perceiving.pdf)**. Review of Alan Millar, *Knowing by Perceiving*. *Notre Dame Philosophical Reviews*, 11 June 2019.
+**[Review of Knowing by Perceiving](https://ndpr.nd.edu/reviews/knowing-by-perceiving/)**. Review of Alan Millar, *Knowing by Perceiving*. *Notre Dame Philosophical Reviews*, 11 June 2019.
 :::
 
 :::
@@ -47,7 +47,7 @@ body-class: reviews-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Review of Experiencing Time](files/reviews/experiencing-time.pdf)**. Review of Simon Prosser, *Experiencing Time*. *Notre Dame Philosophical Reviews*, 1 December 2016.
+**[Review of Experiencing Time](https://ndpr.nd.edu/reviews/experiencing-time/)**. Review of Simon Prosser, *Experiencing Time*. *Notre Dame Philosophical Reviews*, 1 December 2016.
 :::
 
 :::

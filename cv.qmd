@@ -17,9 +17,13 @@ Johns Hopkins University
 
 ## Selected affiliations
 
+::: {.subtle-links}
+
 Associate Principal Investigator, [Perception & Mind Lab](https://perception.jhu.edu/)  
 Member, [Foundations of Mind](https://mind.jhu.edu/)   
-Visiting Professor in Philosophy, University of Oxford, Trinity terms
+Visiting Professor in Philosophy, [Oxford University](https://www.ox.ac.uk/), Trinity terms
+
+:::
 
 ## Research areas
 
@@ -33,8 +37,16 @@ Temporal experience
 
 ## Publications
 
+::: {.subtle-links}
+
 See [Papers](papers.qmd).
+
+:::
 
 ## Contact
 
+::: {.subtle-links}
+
 See [Contact](contact.qmd).
+
+:::

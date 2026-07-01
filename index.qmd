@@ -15,22 +15,29 @@ Johns Hopkins University
 :::
 
 ::: {.profile-links}
-[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/) [CV](cv.qmd)
+[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.co.uk/citations?user=2fmTJzkAAAAJ&hl=en) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/profile/Ian-Phillips-6) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/profile/ianbphillips.bsky.social) [CV](cv.qmd)
 :::
 
 :::
 
 ::: {.home-main}
 
-I am jointly appointed in the William H. Miller III Department of Philosophy and the Department of Psychological and Brain Sciences. I am also a regular visiting professor at Oxford University.
+::: {.subtle-links}
 
-My work lies at the intersection of philosophy and the mind/brain sciences, with particular interests in perception, memory, imagination, consciousness, and temporal experience. I am also writing a biography of Gareth Evans.
+I am jointly appointed in the William H. Miller III [Department of Philosophy](https://philosophy.jhu.edu/) and the [Department of Psychological and Brain Sciences](https://pbs.jhu.edu/). I am also a regular visiting professor at [Oxford University](https://www.ox.ac.uk/).
 
+My work lies at the intersection of philosophy and the mind/brain sciences, with particular interests in perception, memory, imagination, consciousness, and temporal experience. I am also writing a biography of [Gareth Evans](https://en.wikipedia.org/wiki/Gareth_Evans_(philosopher)).
+
+:::
 ## Recent updates
 
-- “Response duration tracks confidence,” in press at *PNAS*.
-- “Pretending not to know,” published in *Psychological Science*.
-- “Event-based warping,” published in *Journal of Experimental Psychology: General*.
-- “Aphantasia reimagined,” published in *Noûs*.
+::: {.recent-updates}
+
+- “[Response duration tracks confidence](files/papers/response-duration.pdf),” in press at *PNAS*.
+- “[Pretending not to know reveals a capacity for model-based self-simulation](files/papers/pretending-not-to-know.pdf),” published in *Psychological Science*.
+- “[Event-based warping: A relative distortion of time within events](files/papers/event-based-warping.pdf),” published in *Journal of Experimental Psychology: General*.
+- “[Aphantasia reimagined](files/papers/aphantasia-reimagined.pdf),” published in *Noûs*.
+
+:::
 
 :::

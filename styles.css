@@ -273,6 +273,30 @@ a:hover {
   }
 }
 
+/* Subtle homepage text links */
+
+.subtle-links a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.subtle-links a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+/* Homepage recent updates links */
+
+.recent-updates a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.recent-updates a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
 /* Papers page: compact bibliography style */
 
 .pub-list {
