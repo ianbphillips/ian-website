@@ -766,55 +766,18 @@ a:hover {
 
 @media (max-width: 760px) {
   .home-header {
-    width: calc(100% - 1.25rem);
-    max-width: none;
-    margin: 1.35rem auto 1.45rem auto;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .home-header .portrait {
-    width: 150px;
-    margin-bottom: 0.75rem;
-  }
-
-  .home-header h1 {
-    font-size: 1.8rem;
-    margin-bottom: 0.3rem;
-  }
-
-  .subtitle {
-    font-size: 0.78rem;
-    line-height: 1.35;
-    margin-bottom: 0.65rem;
-  }
-
-  .home-header .profile-links {
-    margin-top: 0.55rem;
-  }
-
-  .home-header .profile-links p {
-    display: grid;
-    grid-template-columns: repeat(2, max-content);
-    justify-content: center;
-    column-gap: 0.35rem;
-    row-gap: 0.35rem;
-  }
-
-  .home-header .profile-links a {
-    font-size: 0.72rem;
-    padding: 0.18rem 0.42rem;
-  }
-
-  .home-header .profile-icon {
-    width: 0.9em;
-    height: 0.9em;
+    width: calc(100% - 0.75rem) !important;
+    max-width: none !important;
+    margin: 0.95rem auto 1.25rem auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 
   .mobile-home-nav {
-    display: block;
-    margin-top: 0.75rem;
-    font-size: 0.76rem;
+    display: block !important;
+    margin-top: 0;
+    margin-bottom: 1.15rem;
+    font-size: 0.78rem;
     text-align: center;
   }
 
@@ -827,12 +790,52 @@ a:hover {
     color: var(--link-hover);
     text-decoration: underline;
   }
-}
 
-@media (max-width: 760px) {
+  .home-header .portrait {
+    width: 150px !important;
+    margin-bottom: 0.65rem !important;
+  }
+
   .home-header h1 {
-    color: red !important;
+    font-size: 1.75rem !important;
+    margin-bottom: 0.28rem !important;
+  }
+
+  .home-header .subtitle,
+  .subtitle {
+    font-size: 0.78rem !important;
+    line-height: 1.35 !important;
+    margin-bottom: 0.6rem !important;
+  }
+
+  .home-header .profile-links {
+    margin-top: 0.5rem !important;
+    display: block !important;
+  }
+
+  .home-header .profile-links p {
+    display: grid !important;
+    grid-template-columns: repeat(2, max-content) !important;
+    justify-content: center !important;
+    column-gap: 0.35rem !important;
+    row-gap: 0.35rem !important;
+    margin: 0 !important;
+  }
+
+  .home-header .profile-links a {
+    font-size: 0.72rem !important;
+    padding: 0.18rem 0.42rem !important;
+  }
+
+  .home-header .profile-icon {
+    width: 0.9em !important;
+    height: 0.9em !important;
+  }
+
+  .home-main {
+    width: calc(100% - 0.75rem) !important;
+    max-width: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 }
-
-/* trigger pages deploy */

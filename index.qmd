@@ -6,6 +6,10 @@ description: "Ian Phillips is Bloomberg Distinguished Professor of Philosophy an
 
 ::: {.home-header}
 
+::: {.mobile-home-nav}
+[Papers](papers.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)
+:::
+
 ![](images/ian-phillips-web.jpg){.portrait}
 
 # Ian Phillips
@@ -17,10 +21,6 @@ Johns Hopkins University
 
 ::: {.profile-links}
 [![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.co.uk/citations?user=2fmTJzkAAAAJ&hl=en) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/profile/Ian-Phillips-6) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/profile/ianbphillips.bsky.social) [CV](cv.qmd)
-:::
-
-::: {.mobile-home-nav}
-[Papers](papers.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)
 :::
 
 :::
