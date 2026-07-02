@@ -6,10 +6,6 @@ description: "Ian Phillips is Bloomberg Distinguished Professor of Philosophy an
 
 ::: {.home-header}
 
-::: {.mobile-home-nav}
-[Papers](papers.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)
-:::
-
 ![](images/ian-phillips-web.jpg){.portrait}
 
 # Ian Phillips

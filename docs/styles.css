@@ -760,10 +760,6 @@ a:hover {
 
 /* Homepage mobile refinements only */
 
-.mobile-home-nav {
-  display: none;
-}
-
 @media (max-width: 760px) {
   .home-header {
     width: calc(100% - 0.75rem) !important;
@@ -771,24 +767,6 @@ a:hover {
     margin: 0.95rem auto 1.25rem auto !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
-  }
-
-  .mobile-home-nav {
-    display: block !important;
-    margin-top: 0;
-    margin-bottom: 1.15rem;
-    font-size: 0.78rem;
-    text-align: center;
-  }
-
-  .mobile-home-nav a {
-    color: var(--link);
-    text-decoration: none;
-  }
-
-  .mobile-home-nav a:hover {
-    color: var(--link-hover);
-    text-decoration: underline;
   }
 
   .home-header .portrait {
