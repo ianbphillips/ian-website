@@ -18,7 +18,7 @@ body-class: papers-page
 :::
 
 ::: {.pub}
-**[Better methods won’t achieve consensus in consciousness science](better-methods.pdf)**. *Behavioral and Brain Sciences*. Commentary on Stockart et al., **[Studying unconscious processing: Contention and consensus](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/studying-unconscious-processing-contention-and-consensus/36A74876AEBF472BF7B3597FFB3A4DC4)**.
+**[Better methods won’t achieve consensus in consciousness science](files/papers/better-methods.pdf)**. *Behavioral and Brain Sciences*. Commentary on Stockart et al., **[Studying unconscious processing: Contention and consensus](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/studying-unconscious-processing-contention-and-consensus/36A74876AEBF472BF7B3597FFB3A4DC4)**.
 :::
 
 :::
