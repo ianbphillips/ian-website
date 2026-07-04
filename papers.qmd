@@ -17,6 +17,10 @@ body-class: papers-page
 **[In defense of a distinction](files/papers/in-defense.pdf)**. *Trends in Cognitive Sciences*. Reply to Mudrik et al., **[On a confusion about there being two types of consciousness](https://www.sciencedirect.com/science/article/abs/pii/S1364661325003201)**.
 :::
 
+::: {.pub}
+**[Better methods won’t achieve consensus in consciousness science](better-methods.pdf)**. *Behavioral and Brain Sciences*. Commentary on Stockart et al., **[Studying unconscious processing: Contention and consensus](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/studying-unconscious-processing-contention-and-consensus/36A74876AEBF472BF7B3597FFB3A4DC4)**.
+:::
+
 :::
 
 ## 2026

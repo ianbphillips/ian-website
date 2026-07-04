@@ -12,18 +12,18 @@ website:
         text: Home
       - href: papers.qmd
         text: Papers
+      - href: book-reviews.qmd
+        text: Reviews
       - href: cv.qmd
         text: CV
-      - href: contact.qmd
-        text: Contact
       - text: More
         menu:
-          - href: book-reviews.qmd
-            text: Book Reviews
           - href: online-talks.qmd
             text: Online Talks
           - href: media.qmd
             text: Media
+          - href: contact.qmd
+            text: Contact
 
 format:
   html:

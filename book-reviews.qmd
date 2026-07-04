@@ -1,6 +1,6 @@
 ---
-title: "Book Reviews"
-pagetitle: "Book Reviews | Ian Phillips"
+title: "Reviews"
+pagetitle: "Reviews | Ian Phillips"
 body-class: reviews-page
 ---
 
