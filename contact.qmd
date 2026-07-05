@@ -24,5 +24,5 @@ USA
 
 
 ::: {.profile-links}
-[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.com/) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/) [CV](cv.qmd)
+[![](images/icons/google-scholar.svg){.profile-icon} Google Scholar](https://scholar.google.co.uk/citations?user=2fmTJzkAAAAJ&hl=en) [![](images/icons/researchgate.svg){.profile-icon} ResearchGate](https://www.researchgate.net/profile/Ian-Phillips-6) [![](images/icons/bluesky.svg){.profile-icon} Bluesky](https://bsky.app/profile/ianbphillips.bsky.social) [CV](cv.qmd)
 :::
