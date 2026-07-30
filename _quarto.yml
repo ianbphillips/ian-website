@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/papers/austerity-and-illusion.html
+    - files/papers/austerity-and-illusion.pdf
 
 website:
   title: "Ian Phillips"
