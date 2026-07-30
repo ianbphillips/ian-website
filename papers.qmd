@@ -120,7 +120,7 @@ body-class: papers-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[Austerity and Illusion](files/papers/austerity-and-illusion.html)**. *Philosophers’ Imprint*, 20(15), 2020. With Craig French.
+**[Austerity and Illusion](files/papers/austerity-and-illusion.qmd)**. *Philosophers’ Imprint*, 20(15), 2020. With Craig French.
 :::
 
 ::: {.pub}

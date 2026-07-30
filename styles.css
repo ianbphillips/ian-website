@@ -817,3 +817,67 @@ a:hover {
     margin-right: auto !important;
   }
 }
+
+/* Individual article pages */
+.article-page main.content {
+  max-width: 680px;
+}
+
+.article-page h1 {
+  font-size: 1.75rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.45rem;
+}
+
+.article-meta {
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.article-meta p {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.article-links {
+  margin: 0.9rem 0 1.5rem 0;
+}
+
+.article-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0;
+}
+
+.article-button {
+  display: inline-block;
+  font-family: "Montserrat", system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  background: var(--card);
+  color: var(--link);
+  text-decoration: none;
+}
+
+.article-button:hover {
+  color: var(--link-hover);
+  background: #fffaf0;
+  border-color: #c9bda9;
+  text-decoration: none;
+}
+
+.article-page pre {
+  font-size: 0.78rem;
+  border: 1px solid var(--border);
+}
+
+.article-page > footer,
+.article-page main.content > p:last-child {
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin-top: 2rem;
+}
