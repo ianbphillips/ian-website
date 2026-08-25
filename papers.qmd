@@ -97,6 +97,16 @@ body-class: papers-page
 
 :::
 
+## 2022
+
+::: {.pub-list}
+
+::: {.pub}
+**[On Pautz's *Perception*](https://philpapers.org/rec/FREOPP-5)**. A critical commentary on Adam Pautz's book *Perception*. With Craig French.
+:::
+
+:::
+
 ## 2021
 
 ::: {.pub-list}
