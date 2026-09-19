@@ -9,11 +9,7 @@ body-class: papers-page
 ::: {.pub-list}
 
 ::: {.pub}
-**[In defense of a distinction](files/papers/in-defense.pdf)**. *Trends in Cognitive Sciences*. Reply to Mudrik et al., **[On a confusion about there being two types of consciousness](https://www.sciencedirect.com/science/article/abs/pii/S1364661325003201)**.
-:::
-
-::: {.pub}
-**[Better methods won’t achieve consensus in consciousness science](files/papers/better-methods.pdf)**. *Behavioral and Brain Sciences*. Commentary on Stockart et al., **[Studying unconscious processing: Contention and consensus](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/studying-unconscious-processing-contention-and-consensus/36A74876AEBF472BF7B3597FFB3A4DC4)**.
+**[Better methods won’t achieve consensus in consciousness science](files/papers/better-methods.pdf)**. *Behavioral and Brain Sciences*. Commentary on Stockart et al., **[Studying unconscious processing: Contention and consensus](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/studying-unconscious-processing-contention-and-consensus/36A74876AEBF472BF7B3597FFB3A4DC4)**. *Behavioral and Brain Sciences*.
 :::
 
 :::
@@ -21,6 +17,10 @@ body-class: papers-page
 ## 2026
 
 ::: {.pub-list}
+
+::: {.pub}
+**[In defense of a distinction](files/papers/in-defense.pdf)**. *Trends in Cognitive Sciences*, 30(9), 2026. Reply to Mudrik et al., **[On a confusion about there being two types of consciousness](https://www.sciencedirect.com/science/article/abs/pii/S1364661325003201)**. *Trends in Cognitive Sciences*, 30(8), 2026.
+:::
 
 ::: {.pub}
 **[Response duration tracks confidence](files/papers/response-duration.pdf)**. *Proceedings of the National Academy of Sciences*, 123(29), 2026. With Hanbei Zhou, Rui Zhe Goh, and Chaz Firestone.  
@@ -37,7 +37,7 @@ body-class: papers-page
 :::
 
 ::: {.pub}
-**[Postdiction and the speed of consciousness](files/papers/postdiction.pdf)**. *Behavioral and Brain Sciences*, 49, 2026. Commentary on Fleming and Michel, **[Sensory horizons and the functions of conscious vision](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sensory-horizons-and-the-functions-of-conscious-vision/6B3E944D6E27247F0F1CF64B5612F493)**.
+**[Postdiction and the speed of consciousness](files/papers/postdiction.pdf)**. *Behavioral and Brain Sciences*, 49, 2026. Commentary on Fleming and Michel, **[Sensory horizons and the functions of conscious vision](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/sensory-horizons-and-the-functions-of-conscious-vision/6B3E944D6E27247F0F1CF64B5612F493)**. *Behavioral and Brain Sciences*, 49, 2026.
 :::
 
 :::
