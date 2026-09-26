@@ -9,6 +9,10 @@ body-class: media-page
 ::: {.pub-list}
 
 ::: {.pub}
+**[Ude af øje, men ikke af sind (Out of sight, but not out of mind)](https://www.weekendavisen.dk/ideer/ude-af-oeje-men-ikke-af-sind)**. *Weekendavisen*, Markus Giessing, August 28, 2026. [[English translation]](files/media/weekendavisen-translation.pdf)
+:::
+
+::: {.pub}
 **[Seeing the bigger picture](https://hub.jhu.edu/magazine/2025/fall/brain-science-seeing-bigger-picture-invisible-gorilla/)**. *Johns Hopkins Magazine*, Kristel Tjandra, Fall 2025.
 :::
 
@@ -21,11 +25,11 @@ body-class: media-page
 :::
 
 ::: {.pub}
-**[A teoria do gorila invisível acaba de ficar “abananada”, 25 anos depois](https://zap.aeiou.pt/teoria-gorila-invisivel-abananada-655555)**. *ZAP*, January 24, 2025.
+**[A teoria do gorila invisível acaba de ficar “abananada”, 25 anos depois (Twenty-five years on, the invisible gorilla theory has just gone bananas)](https://zap.aeiou.pt/teoria-gorila-invisivel-abananada-655555)**. *ZAP*, January 24, 2025.
 :::
 
 ::: {.pub}
-**[Ön látja a gorillát? Újabb pszichológiai csavar a híres tanulmányban](https://www.blikk.hu/ferfiaknak/tech/gorilla-kosarlabda-pszichologiai-tanulmany-csavar/rbr8wmk)**. *Blikk*, November 15, 2024.
+**[Ön látja a gorillát? Újabb pszichológiai csavar a híres tanulmányban (Do you see the gorilla? A new psychological twist on the famous study)](https://www.blikk.hu/ferfiaknak/tech/gorilla-kosarlabda-pszichologiai-tanulmany-csavar/rbr8wmk)**. *Blikk*, November 15, 2024.
 :::
 
 ::: {.pub}
